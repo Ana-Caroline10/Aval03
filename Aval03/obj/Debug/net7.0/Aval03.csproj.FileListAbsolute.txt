@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\Aval03.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\Aval03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\Aval03.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\Aval03.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\Aval03.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\Aval03\bin\Debug\net7.0\Aval03.exe
+C:\Users\carol\OneDrive\Documentos\Aval03\bin\Debug\net7.0\Aval03.deps.json
+C:\Users\carol\OneDrive\Documentos\Aval03\bin\Debug\net7.0\Aval03.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\Aval03\bin\Debug\net7.0\Aval03.dll
+C:\Users\carol\OneDrive\Documentos\Aval03\bin\Debug\net7.0\Aval03.pdb
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\Aval03.dll
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\refint\Aval03.dll
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\Aval03.pdb
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\Aval03.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documentos\Aval03\obj\Debug\net7.0\ref\Aval03.dll
